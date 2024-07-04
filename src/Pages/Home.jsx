@@ -7,7 +7,10 @@ const Home = () => {
               <Helmet>
             <title> DOC+ | Home </title>
             </Helmet>
-            this is home
+           {/* this banner section */}
+           <div>
+                hello
+           </div>
         </div>
     );
 };
